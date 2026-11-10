@@ -1,5 +1,5 @@
 # 6.3
-MỤC 1: THÔNG TIN SINH VIÊN
+MỤC 1: THÔNG TIN SINH VIÊN                                                         
  Họ và tên sinh viên: Nguyễn Hải Long                                                                              
  Mã sinh viên: 24810320154                                                                     
  Lớp / Khóa: D19QTANM1                                                                                                   
